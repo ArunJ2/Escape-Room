@@ -36,7 +36,7 @@ This AR/VR application was developed as the final project for the **AR/VR course
 
 ## 📷 Screenshots & Video Walkthrough
 
-🔗 **[Watch the walkthrough video](https://docs.google.com/forms/d/e/1FAIpQLSdEth9PcYxg3yq-RqMMOCuE4iVyqx2PPxPvKXiYlsQet4mljA/viewform)**  
+🔗 **[Watch the walkthrough video](https://drive.google.com/file/d/1Sp7IMdjd34XZP7idGsfWb6_TkDSatRe2/view?usp=drive_link)**  
 🖼️ Screenshots are also available in the same link above.
 
 ---
